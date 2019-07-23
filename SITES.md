@@ -9,3 +9,5 @@
 - [赫赫文王](https://kqh.ac/) - 不务正业的历史系学生一个
 - [Potioneer's Essays](https://william-yeh.net/) - Personal blog on software development in traditional Chinese by @William-Yeh
 - [联盟少侠博客](https://shaoxia.xyz/) - 一个日记博客.Simple Blog, Simple Days。
+- [Thinking, Writing And Waiting](https://blog.fallleaf.net/) - 一个通信设计人的博客，不为别的，只为表明网络世界里，我来了，我存在。
+
